@@ -27,6 +27,7 @@ public class ForEachOrIterator {
     public void gitTest() {
         System.out.println("Git Test");
         System.out.println("hello git!");
+        System.out.println("hello git2!");
     }
 }
 
