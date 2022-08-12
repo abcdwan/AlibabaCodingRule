@@ -30,6 +30,7 @@ public class ForEachOrIterator {
         System.out.println("hello git2!");
         System.out.println("main test");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
 
