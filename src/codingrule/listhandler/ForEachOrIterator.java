@@ -33,6 +33,7 @@ public class ForEachOrIterator {
         System.out.println("push test");
         System.out.println("pull test");
         System.out.println("Gitee Test");
+        System.out.println("Gitee Test2");
     }
 }
 
