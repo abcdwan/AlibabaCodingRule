@@ -34,6 +34,7 @@ public class ForEachOrIterator {
         System.out.println("pull test");
         System.out.println("Gitee Test");
         System.out.println("Gitee Test2");
+        System.out.println("GitLab Test3");
     }
 }
 
